@@ -8,17 +8,17 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; 墨斐的画廊</title>
+	<title>Uncategorized &#8211; 墨斐的画廊 .2022</title>
 	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>一个五岁小女孩的绘画记录</description>
+	<description>一个七岁小女孩的绘画记录</description>
 	<lastBuildDate>Mon, 29 Jun 2020 13:52:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
 	<item>
 		<title>2020年2月最后那一周的画儿</title>
 		<link>/2020/02/the-last-week-of-february/</link>
